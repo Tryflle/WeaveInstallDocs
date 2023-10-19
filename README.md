@@ -22,4 +22,20 @@
      - Unix: `mkdir -p ~/.weave/mods`
   3. In this folder add your mods
   4. Launch!
-more soon 
+- Lunar Launcher Inject
+  1. Download the latest release from https://github.com/Nilsen84/lunar-launcher-inject/releases for your operating system.
+  2. Make a new directory anywhere, and put the file you downloaded inside
+  3. Download the latest Weave Loader https://github.com/Weave-MC/Weave-Loader/releases and put it in the same folder.
+  4. Open Lunar's launcher normally, then disable exit to dock and close it, ensure it's not running in the background, if it is you'll want to kill it.
+     - Windows: Open Lunar Launcher Inject
+       1. Launch!
+     - Unix: Set your current directory to the directory with Lunar Launcher Inject, then run `chmod +x nameoflliexecutable`
+       1. `./nameoflliexecutable`
+       2. Launch!
+- Command Line Interface (Windows)
+  1. Download Process Hacker https://processhacker.sourceforge.io/
+  2. Run Lunar
+  3. Right click the process and go to properties
+  4. Copy the launch command and save it in notepad as a `.bat`.
+  5. A little after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
+  6. Launch
