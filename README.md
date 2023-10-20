@@ -14,7 +14,7 @@
      2. 1.8.9
      3. 1.12.2
 - Weave Manager Tauri is currently in beta, but set to supercede the buggy and unusable Weave Manager Electron.
-# Installation Methods
+# Installation Methods for Weave Loader
 - Lunar Client Qt (any version or fork, including 2.0 and the original)
   1. Download the latest release of Weave Loader and add it as an agent https://github.com/Weave-MC/Weave-Loader/releases
   2. Create the folder `.weave` and inside `mods` in your user profile path
@@ -39,3 +39,14 @@
   4. Copy the launch command and save it in notepad as a `.bat`.
   5. A little after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
   6. Launch
+# Installion Method for Weave Manager
+- Weave Manager Electron
+  1. Note: Weave Manager Electron is very buggy and I don't recommend it.
+  2. Install the corresponding version for your operating system from https://github.com/exejar/Weave-Manager/releases
+  3. Add your mods to:
+     - Unix: `~/.weave/mods`, create it if it does not exist.
+     - Windows: Press Windows + R, then in the run dialogue type `%userprofile`, look for `.weave`, if it doesn't exist create it and inside make a folder called mods, the full path is `%userprofile%/.weave/mods`
+  4. Run it and launch lunar then hit relaunch with Weave.
+  5. Enjoy, if it works.
+- Weave Manager Tauri
+  Soon™
