@@ -1,8 +1,13 @@
-# Overview
-- Weave is a mod loader aimed to work everywhere. https://github.com/Weave-MC
-- Weave is it's own mod loader, forge/fabric mods won't work unless they have been ported.
-# Support for
-- Stable (v0.2.4):
+<img
+    align="right" alt="title" width="200px"
+    src="https://raw.githubusercontent.com/Weave-MC/.github/master/assets/icon.png"
+/>
+
+# Weave Loader, A Universal Minecraft Mod Loader
+- Note: Weave is it's own Mod Loader, forge/fabric mods are not compatabile and must be ported.
+
+## Weave Supports:
+### Stable (v0.2.4):
 <table>
 <tr><th>Supported Clients</th><th>Supported Versions</th></tr>
 <tr><td>
@@ -30,7 +35,7 @@
 | 1.20    | ❌ |
 </td></tr>
 </table>
-- Beta Branch with Weave Manager Tauri:
+### Beta Branch with Weave Manager Tauri:
 <table>
 <tr><th>Supported Clients</th><th>Supported Versions</th></tr>
 <tr><td>
