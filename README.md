@@ -6,7 +6,7 @@
 <table>
 <tr><th>Supported Clients</th><th>Supported Versions</th></tr>
 <tr><td>
-   
+        
 | Client  | Supported |
 | ------- | :-------: |
 | Vanilla | ❌ |
@@ -28,7 +28,13 @@
 | 1.18    | ❌ |
 | 1.19    | ❌ |
 | 1.20    | ❌ |
-  
+</td></tr>
+</table>
+- Beta Branch with Weave Manager Tauri:
+<table>
+<tr><th>Supported Clients</th><th>Supported Versions</th></tr>
+<tr><td>
+        
 | Client  | Supported |
 | ------- | :-------: |
 | Vanilla | ✅ |
@@ -53,7 +59,6 @@
 
 </td></tr>
 </table>
-
 - Weave Manager Tauri is currently in beta, but set to supercede the buggy and unusable Weave Manager Electron.
 # Mod information
 - Directory: `~/.weave/mods`//`%userprofile%/.weave/mods`
