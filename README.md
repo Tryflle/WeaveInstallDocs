@@ -59,6 +59,7 @@
 
 </td></tr>
 </table>
+
 - Weave Manager Tauri is currently in beta, but set to supercede the buggy and unusable Weave Manager Electron.
 # Mod information
 - Directory: `~/.weave/mods`//`%userprofile%/.weave/mods`
