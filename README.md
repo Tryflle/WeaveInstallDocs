@@ -2,17 +2,63 @@
 - Weave is a mod loader aimed to work everywhere. https://github.com/Weave-MC
 - Weave is it's own mod loader, forge/fabric mods won't work unless they have been ported.
 # Support for
-1. Stable
-   - Lunar Client
-     1. 1.8.9
-2. Module testing branch with Weave Manager Tauri
-   - Labymod
-   - Lunar Client
-   - Forge
-   - Vanilla
-     1. 1.7.10
-     2. 1.8.9
-     3. 1.12.2
+- Stable (v0.2.4):
+<table>
+<tr><th>Supported Clients</th><th>Supported Versions</th></tr>
+<tr><td>
+        
+| Client  | Supported |
+| ------- | :-------: |
+| Vanilla | ❌ |
+| Forge   | ❌ |
+| Lunar   | ✅ |
+| Badlion | ❌ |
+| Feather | ❌ |
+| Labymod | ❌ |
+
+</td><td>
+    
+| Version | Supported |
+| ------- | :-------: |
+| 1.7     | ❌ |
+| 1.8     | ✅ |
+| 1.12    | ❌ |
+| 1.16    | ❌ |
+| 1.17    | ❌ |
+| 1.18    | ❌ |
+| 1.19    | ❌ |
+| 1.20    | ❌ |
+</td></tr>
+</table>
+- Beta Branch with Weave Manager Tauri:
+<table>
+<tr><th>Supported Clients</th><th>Supported Versions</th></tr>
+<tr><td>
+        
+| Client  | Supported |
+| ------- | :-------: |
+| Vanilla | ✅ |
+| Forge   | ✅ |
+| Lunar   | ✅ |
+| Badlion | ❌ |
+| Feather | ❌ |
+| Labymod | ✅ |
+
+</td><td>
+    
+| Version | Supported |
+| ------- | :-------: |
+| 1.7     | ✅ |
+| 1.8     | ✅ |
+| 1.12    | ✅ |
+| 1.16    | ❌ |
+| 1.17    | ❌ |
+| 1.18    | ❌ |
+| 1.19    | ❌ |
+| 1.20    | ❌ |
+
+</td></tr>
+</table>
 - Weave Manager Tauri is currently in beta, but set to supercede the buggy and unusable Weave Manager Electron.
 # Mod information
 - Directory: `~/.weave/mods`//`%userprofile%/.weave/mods`
