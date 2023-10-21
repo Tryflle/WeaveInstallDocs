@@ -35,6 +35,7 @@
 | 1.20    | ❌ |
 </td></tr>
 </table>
+
 ### Beta Branch with Weave Manager Tauri:
 <table>
 <tr><th>Supported Clients</th><th>Supported Versions</th></tr>
