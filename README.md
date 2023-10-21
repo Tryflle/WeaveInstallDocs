@@ -3,7 +3,7 @@
     src="https://raw.githubusercontent.com/Weave-MC/.github/master/assets/icon.png"
 />
 
-# Weave Loader, A Universal Minecraft Mod Loader
+# Weave, A Universal Minecraft Mod Loader
 - Note: Weave is it's own Mod Loader, forge/fabric mods are not compatabile and must be ported.
 
 ## Weave Supports:
@@ -66,10 +66,10 @@
 </table>
 
 - Weave Manager Tauri is currently in beta, but set to supercede the buggy and unusable Weave Manager Electron.
-# Mod information
+## Mod information
 - Directory: `~/.weave/mods`//`%userprofile%/.weave/mods`
 - Mods must be made for Weave. You can find mods in the Discord server https://discord.gg/zzncWwGg5X or https://efo-chi.vercel.app/ , however, the latter has been deprecated.
-# Installation Methods for Weave Loader
+## Installation Methods for Weave Loader
 - Lunar Client Qt (any version or fork, including 2.0 and the original)
   1. Download the latest release of Weave Loader and add it as an agent https://github.com/Weave-MC/Weave-Loader/releases
   2. Create the folder `.weave` and inside `mods` in your user profile path
@@ -107,7 +107,7 @@
   4. A little after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
   5. Create the folder `.weave` and inside `mods` in your user profile path, to do this run: `mkdir -p ~/.weave/mods`
   6. Add your mods to the folder and then run the `.sh` script.
-# Installion Method for Weave Manager
+## Installion Method for Weave Manager
 - Weave Manager Electron
   1. Note: Weave Manager Electron is very buggy and I don't recommend it.
   2. Install the corresponding version for your operating system from https://github.com/exejar/Weave-Manager/releases
