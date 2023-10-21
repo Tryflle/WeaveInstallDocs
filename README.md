@@ -6,7 +6,8 @@
 <table>
 <tr><th>Supported Clients</th><th>Supported Versions</th></tr>
 <tr><td>
-        
+
+| Stable v0.2.4|        
 | Client  | Supported |
 | ------- | :-------: |
 | Vanilla | ❌ |
@@ -28,13 +29,8 @@
 | 1.18    | ❌ |
 | 1.19    | ❌ |
 | 1.20    | ❌ |
-</td></tr>
-</table>
-- Beta Branch with Weave Manager Tauri:
-<table>
-<tr><th>Supported Clients</th><th>Supported Versions</th></tr>
-<tr><td>
-        
+
+|Beta Version W/WM TAURI|        
 | Client  | Supported |
 | ------- | :-------: |
 | Vanilla | ✅ |
