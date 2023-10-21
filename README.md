@@ -43,9 +43,8 @@
    1. Create the folder `.weave` and inside `mods` in your user profile path
      - Windows: Windows+R, type `%userprofile%`, create the directories there
      - Unix: `mkdir -p ~/.weave/mods`
-   2. Within your .weave folder, add the Weave Loader Agent, don't put it in the mods folder. https://github.com/Weave-MC/Weave-Loader/releases
-   3. Download Weave Diagnose from https://gitlab.com/candicey-weave/weave-diagnose/-/releases
-   4. Double click Weave Diagnose jar and add your mods to the `.weave/mods` folder, hit run Weave when ready and that's it.
+   2. Download Weave Diagnose from https://gitlab.com/candicey-weave/weave-diagnose/-/releases
+   3. Double click Weave Diagnose jar and add your mods to the `.weave/mods` folder, hit run Weave when ready and that's it.
 # Installion Method for Weave Manager
 - Weave Manager Electron
   1. Note: Weave Manager Electron is very buggy and I don't recommend it.
