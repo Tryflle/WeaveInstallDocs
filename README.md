@@ -64,18 +64,22 @@
      - Windows: Press Windows + R, then in the run dialogue type `%userprofile`, look for `.weave`, if it doesn't exist create it and inside make a folder called mods, the full path is `%userprofile%/.weave/mods`
   4. Run it and launch lunar then hit relaunch with Weave.
   5. Enjoy, if it works.
-- Weave Manager Tauri (Windows) (12GB OF DEPENDENCIES!)
-   1.Download it:
+- Weave Manager Tauri (Windows) (BETA)
+   1. Download it:
      - Here is a version that I compiled of 9a01911: https://www.mediafire.com/file/1z8qids0ejqctg5/Weave_Manager.exe/file
    2. Building it:
-     - Note: Weave Manager Tauri has not yet been released. You may encounter issues, it's still recommened to use Weave Loader.
      - https://github.com/Weave-MC/Weave-Manager Download the source code
      - Download NodeJS
      - Download RustUp
-     - Download VCC Build tools
+     - Download VCC Build tools (12GB+)
      - Open CMD and change your current directory to the folder containing index.html and whatnot
      - Run `npm tauri i`, and then `npm run tauri build`
      - Grab some water and develop patience.
      - Once your build is finished, you may get an error about keys, ignore it.
      - Navigate to `src-tauri\target\release` and `Weave Manager.exe` is it!
      - I have found Weave Manager Tauri to be very reliable and easy to use, minus the build tax.
+   3. Usage:
+     - Add your mods to `%userprofile%/.weave/mods`
+     - Launch Lunar
+     - Hit relaunch
+     - Inquire Candice about using the beta branch if you wish to use it.
