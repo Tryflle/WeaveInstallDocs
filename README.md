@@ -68,7 +68,7 @@
 - Weave Manager Tauri is currently in beta, but set to supercede the buggy and unusable Weave Manager Electron.
 # Mod information
 - Directory: `~/.weave/mods`//`%userprofile%/.weave/mods`
-- 
+- Mods must be made for Weave. You can find mods in the Discord server https://discord.gg/zzncWwGg5X or https://efo-chi.vercel.app/ , however, the latter has been deprecated.
 # Installation Methods for Weave Loader
 - Lunar Client Qt (any version or fork, including 2.0 and the original)
   1. Download the latest release of Weave Loader and add it as an agent https://github.com/Weave-MC/Weave-Loader/releases
