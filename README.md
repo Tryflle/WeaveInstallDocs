@@ -65,17 +65,17 @@
   4. Run it and launch lunar then hit relaunch with Weave.
   5. Enjoy, if it works.
 - Weave Manager Tauri (Windows) (12GB OF DEPENDENCIES!)
-   A. Download it:
-     1. Here is a version that I compiled of 9a01911: https://www.mediafire.com/file/1z8qids0ejqctg5/Weave_Manager.exe/file
-   B. Building it:
-     1. Note: Weave Manager Tauri has not yet been released. You may encounter issues, it's still recommened to use Weave Loader.
-     2. https://github.com/Weave-MC/Weave-Manager Download the source code
-     3. Download NodeJS
-     4. Download RustUp
-     5. Download VCC Build tools
-     6. Open CMD and change your current directory to the folder containing index.html and whatnot
-     7. Run `npm tauri i`, and then `npm run tauri build`
-     8. Grab some water and develop patience.
-     9. Once your build is finished, you may get an error about keys, ignore it.
-     10. Navigate to `src-tauri\target\release` and `Weave Manager.exe` is it!
-     11. I have found Weave Manager Tauri to be very reliable and easy to use, minus the build tax.
+   1.Download it:
+     - Here is a version that I compiled of 9a01911: https://www.mediafire.com/file/1z8qids0ejqctg5/Weave_Manager.exe/file
+   2. Building it:
+     - Note: Weave Manager Tauri has not yet been released. You may encounter issues, it's still recommened to use Weave Loader.
+     - https://github.com/Weave-MC/Weave-Manager Download the source code
+     - Download NodeJS
+     - Download RustUp
+     - Download VCC Build tools
+     - Open CMD and change your current directory to the folder containing index.html and whatnot
+     - Run `npm tauri i`, and then `npm run tauri build`
+     - Grab some water and develop patience.
+     - Once your build is finished, you may get an error about keys, ignore it.
+     - Navigate to `src-tauri\target\release` and `Weave Manager.exe` is it!
+     - I have found Weave Manager Tauri to be very reliable and easy to use, minus the build tax.
