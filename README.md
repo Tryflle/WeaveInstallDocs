@@ -93,7 +93,7 @@
   2. Run Lunar
   3. Right click the process and go to properties
   4. Copy the launch command and save it in notepad as a `.bat`.
-  5. A little after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
+  5. In the `.bat`, just after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
   6. Launch
  - Weave Diagnose
    1. Create the folder `.weave` and inside `mods` in your user profile path
@@ -105,7 +105,7 @@
   1. Run Lunar
   2. Open your terminal and run `ps aux | grep lunar.jar`
   3. Copy the command and add it to a `.sh` script
-  4. A little after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
+  4. In the `.sh`, just after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
   5. Create the folder `.weave` and inside `mods` in your user profile path, to do this run: `mkdir -p ~/.weave/mods`
   6. Add your mods to the folder and then run the `.sh` script.
 ## Installion Method for Weave Manager
