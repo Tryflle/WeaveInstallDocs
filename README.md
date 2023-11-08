@@ -110,7 +110,7 @@
   6. Add your mods to the folder and then run the `.sh` script.
 ## Installion Method for Weave Manager
 - Weave Manager Electron
-  1. Note: Weave Manager Electron is very buggy and I don't recommend it.
+  1. Note: Weave Manager Electron is very buggy and I don't recommend it as it usually fails to relaunch and uses excess amounts of resources. You should use Weave Loader instead.
   2. Install the corresponding version for your operating system from https://github.com/exejar/Weave-Manager/releases
   3. Add your mods to:
      - Unix: `~/.weave/mods`, create it if it does not exist.
