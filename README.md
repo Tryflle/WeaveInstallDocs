@@ -119,7 +119,7 @@
   5. Enjoy, if it works.
 - Weave Manager Tauri (Windows) (BETA)
    1. Download it:
-     - Here is a version that I compiled of 9a01911: https://www.mediafire.com/file/1z8qids0ejqctg5/Weave_Manager.exe/file
+     - [Here is a version that I compiled: https://www.mediafire.com/file/1z8qids0ejqctg5/Weave_Manager.exe/file](https://github.com/Tryflle/WeaveInstallDocs/releases/tag/newtauri)
    2. Building it:
      - https://github.com/Weave-MC/Weave-Manager Download the source code
      - Download NodeJS
