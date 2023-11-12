@@ -126,7 +126,7 @@
      - Download RustUp
      - Download VCC Build tools (12GB+)
      - Open CMD and change your current directory to the folder containing index.html and whatnot
-     - Run `npm tauri i`, and then `npm run tauri build`
+     - Run `npm i`, and then `npm run tauri build`
      - Grab some water and develop patience.
      - Once your build is finished, you may get an error about keys, ignore it.
      - Navigate to `src-tauri\target\release` and `Weave Manager.exe` is it!
