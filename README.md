@@ -121,11 +121,11 @@
    1. Download it:
      - [Here is a version that I compiled.](https://github.com/Tryflle/WeaveInstallDocs/releases/tag/newtauri)
    2. Building it:
-     - https://github.com/Weave-MC/Weave-Manager Download the source code
+     - https://github.com/Weave-MC/Weave-Manager Download the source code.
      - Download NodeJS
      - Download RustUp
      - Download VCC Build tools (12GB+)
-     - Open CMD and change your current directory to the folder containing index.html and whatnot
+     - Open CMD and change your current directory to the folder containing index.html and whatnot, to do this run `cd PATH`, PATH being the path to the folder.
      - Run `npm i`, and then `npm run tauri build`
      - Grab some water and develop patience.
      - Once your build is finished, you may get an error about keys, ignore it.
