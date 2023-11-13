@@ -135,4 +135,4 @@
      - Add your mods to `%userprofile%/.weave/mods`
      - Launch Lunar
      - Hit relaunch
-     - Inquire Candice about using the beta branch if you wish to use it.
+     - Inquire Candice about using the beta branch if you wish to use it. The best place to do this would be in the help channel. I personally have not tried the beta branch.
