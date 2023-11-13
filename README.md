@@ -85,8 +85,7 @@
   5. Open Lunar's launcher normally, then disable exit to dock and close it, ensure it's not running in the background, if it is you'll want to kill it.
      - Windows: Open Lunar Launcher Inject
        1. Launch!
-     - Unix: Set your current directory to the directory with Lunar Launcher Inject, then run `chmod +x nameoflliexecutable`
-     - (Please note, Mac users will have to rename the executable in order to remove all dots otherwise it will not work.)
+     - Unix: Set your current directory to the directory with Lunar Launcher Inject, then run `chmod +x nameoflliexecutable` (Please note, Mac users will have to rename the executable in order to remove all dots otherwise it will not work.)
        1. `./nameoflliexecutable`
        2. Launch!
 - Command Line Interface (Windows)
