@@ -95,8 +95,9 @@
   4. Copy the launch command (general -> command line) and save it in notepad as a `.bat`.
   5. In the `.bat`, just after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
   6. At the very end, on a new line, write `pause`.
-  7. Save the file
-  8. Open the file, and you've launched lunar with weave!
+  7. Make a new first line, add `cd %userprofile%/.lunarclient/offline/multiver`
+  8. Save the file
+  9. Open the file, and you've launched lunar with weave!
  - Weave Diagnose
    1. Create the folder `.weave` and inside `mods` in your user profile path
      - Windows: Windows+R, type `%userprofile%`, create the directories there
@@ -106,7 +107,7 @@
 - Command Line Interface (Linux)
   1. Run Lunar
   2. Open your terminal and run `ps aux | grep lunar.jar`
-  3. Copy the command and add it to a `.sh` script
+  3. Copy the command and add it to a `.sh` script, and add `cd ~/.lunarclient/offline/multiver` to the first line before the actual launch command.
   4. In the `.sh`, just after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
   5. Create the folder `.weave` and inside `mods` in your user profile path, to do this run: `mkdir -p ~/.weave/mods`
   6. Add your mods to the folder and then run the `.sh` script.
