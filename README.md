@@ -92,9 +92,11 @@
   1. Download Process Hacker https://processhacker.sourceforge.io/
   2. Run Lunar
   3. Right click the process and go to properties
-  4. Copy the launch command and save it in notepad as a `.bat`.
+  4. Copy the launch command (general -> command line) and save it in notepad as a `.bat`.
   5. In the `.bat`, just after Java is defined add `-javaagent:"path/to/agent.jar"` https://github.com/Weave-MC/Weave-Loader/releases
-  6. Launch
+  6. At the very end, on a new line, write `pause`.
+  7. Save the file
+  8. Open the file, and you've launched lunar!
  - Weave Diagnose
    1. Create the folder `.weave` and inside `mods` in your user profile path
      - Windows: Windows+R, type `%userprofile%`, create the directories there
