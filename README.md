@@ -7,7 +7,7 @@
 - Note: Weave is it's own Mod Loader, forge/fabric mods are not compatabile and must be ported.
 
 ## Weave Supports:
-### Stable (v0.2.4):
+### Stable (v0.2.6):
 <table>
 <tr><th>Supported Clients</th><th>Supported Versions</th></tr>
 <tr><td>
