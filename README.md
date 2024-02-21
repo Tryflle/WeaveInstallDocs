@@ -78,7 +78,7 @@
      - Unix: `mkdir -p ~/.weave/mods`
   3. In this folder add your mods
   4. Launch!
-- Lunar Launcher Inject
+- ~~Lunar Launcher Inject~~ (CURRENTLY BROKEN!!!!)
   1. Download the latest release from https://github.com/Nilsen84/lunar-launcher-inject/releases for your operating system.
   2. Make a new directory anywhere, and put the file you downloaded inside
   3. Download the latest Weave Loader https://github.com/Weave-MC/Weave-Loader/releases and put it in the same folder.
